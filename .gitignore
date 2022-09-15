@@ -1,0 +1,5 @@
+# port
+.env
+
+# dependecys modules
+node_modules/*
